@@ -5,8 +5,8 @@ Things I enjoy:
 - Python development 🐍 
 - Playing guitar 🎸 
 - Tennis, basketball, yard games 🎾 🏀 
-- Statistical Mechanics & Graph Theory 🔵 
-- Wii Golf 🏌️‍                        🔵 🔵 
+- Statistical Mechanics & Graph Theory 🔵 🔵 🔵 
+- Wii Golf 🏌️‍                        
 
 ### Reach out / Keep up
 - **nnowack@umich.edu**
