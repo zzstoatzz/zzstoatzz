@@ -15,6 +15,8 @@ Things I like:
 
 - [**portfolio**](https://github.com/zzstoatzz/portfolio)
 
+- [GitHub website](https://zzstoatzz.github.io/)
+
 ---
 
 ### Introduction and Background
@@ -33,4 +35,3 @@ Currently, I work as a data engineering consultant for [SLATE](https://www.slate
 - ML model creation on top of TF Keras
 - Animations and data visualization
 
-Keep up with me by checking out my (extremely rarely updated) [GitHub website](https://zzstoatzz.github.io/)!
