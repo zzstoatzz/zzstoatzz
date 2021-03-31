@@ -9,7 +9,7 @@ Things I like:
 - Wii Golf 🏌️‍
 
 ### Contact Me
-- **email** : nnowack@umich.edu 
+- **nnowack@umich.edu**
 
 - [**LinkedIn**](https://www.linkedin.com/in/nathan-nowack-a6b59b143/)
 
