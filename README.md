@@ -4,9 +4,9 @@ My name is Nate.
 Things I enjoy:
 - Python development 🐍 
 - Playing guitar 🎸 
-- Tennis, basketball, assorted yard games 🎾  🏀 
-- Statistical Mechanics & Graph Theory 🔵 -> 🔵
-- Wii Golf 🏌️‍
+- Tennis, basketball, yard games 🎾 🏀 
+- Statistical Mechanics & Graph Theory 🔵 
+- Wii Golf 🏌️‍                        🔵 🔵 
 
 ### Reach out / Keep up
 - **nnowack@umich.edu**
