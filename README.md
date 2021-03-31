@@ -1,14 +1,14 @@
 ## Hello 👋 
 My name is Nate. 
 
-Things I like:
+Things I enjoy:
 - Python development 🐍 
 - Playing guitar 🎸 
 - Tennis, basketball, assorted yard games 🎾  🏀 
 - Statistical Mechanics & Graph Theory 🔵 -> 🔵
 - Wii Golf 🏌️‍
 
-### Contact Me
+### Reach out / Keep up
 - **nnowack@umich.edu**
 
 - [**LinkedIn**](https://www.linkedin.com/in/nathan-nowack-a6b59b143/)
