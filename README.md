@@ -1,23 +1,23 @@
-# Nathan Nowack
-**email** : nnowack@umich.edu 
+## Hello!
+My name is Nate. 
 
-**LinkedIn** : [Profile Page](https://www.linkedin.com/in/nathan-nowack-a6b59b143/)
+Things I like:
+- Python development
+- Playing guitar
+- Tennis, basketball, assorted yard games
+- Statistical Mechanics & Graph Theory
+- Wii Golf
+
+### Contact Me
+- **email** : nnowack@umich.edu 
+
+- [**LinkedIn**](https://www.linkedin.com/in/nathan-nowack-a6b59b143/)
+
+- [**portfolio**](https://github.com/zzstoatzz/portfolio)
 
 ---
 
-portfolio directory: 
-
-- **[Professional and Academic Background](##-Professional-and-Academic-Background)**
-
-- **[Project Summaries](##-Project-Summaries)** 
-
-- **[other whimsical projects](#-Somewhat-whimsical-projects)**
-
-
----
-
-## Introduction
-
+### Introduction and Background
 
 #### University of Michigan - Ann Arbor :  *College of Engineering*
 
