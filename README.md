@@ -15,7 +15,7 @@ Things I like:
 
 - [**portfolio**](https://github.com/zzstoatzz/portfolio)
 
-- [GitHub website](https://zzstoatzz.github.io/)
+- [**GitHub website**](https://zzstoatzz.github.io/)
 
 ---
 
