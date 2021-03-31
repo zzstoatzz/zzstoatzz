@@ -1,12 +1,12 @@
-## Hello!
+## Hello 👋 
 My name is Nate. 
 
 Things I like:
-- Python development
-- Playing guitar
-- Tennis, basketball, assorted yard games
-- Statistical Mechanics & Graph Theory
-- Wii Golf
+- Python development 🐍 
+- Playing guitar 🎸 
+- Tennis, basketball, assorted yard games 🎾 🏀 
+- Statistical Mechanics & Graph Theory 🔵->🔵
+- Wii Golf 🏌️‍
 
 ### Contact Me
 - **email** : nnowack@umich.edu 
