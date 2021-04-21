@@ -9,7 +9,7 @@ Things I enjoy:
 - Wii Golf 🏌️‍                        
 
 ### Reach out / Keep up
-- **nnowack@umich.edu**
+- **nate.nowack@slateco.io**
 
 - [**LinkedIn**](https://www.linkedin.com/in/nathan-nowack-a6b59b143/)
 
