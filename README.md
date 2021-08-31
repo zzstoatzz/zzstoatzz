@@ -4,7 +4,7 @@ My name is Nate.
 Things I enjoy:
 - Python development 🐍 
 - Playing guitar 🎸 
-- Tennis, basketball, yard games 🎾 🏀 
+- Tennis, basketball, bocce ball 🎾 🏀 
 - Statistical Mechanics & Graph Theory 🔵 🔵 🔵 
 - Wii Golf 🏌️‍                        
 
@@ -31,7 +31,8 @@ Things I enjoy:
 - **Minor**: Physics
 
 Currently, I work as a data engineering consultant for [SLATE](https://www.slateco.io) Data + Design. My occupational interests include:
-- Distributed data-pipeline creation using Prefect and Dask
-- ML model creation on top of TF Keras
+- Orchestrated data-pipeline creation and management using Prefect
+- High-volume data transformation using Pandas, vectorization, Ray/Dask etc
 - Animations and data visualization
+- golang 
 
