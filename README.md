@@ -3,8 +3,8 @@ my name is nate.
 
 things I enjoy:
 - python / golang development
-- playing guitar 🎸 
-- pennis, basketball, bocce ball 🎾 🏀 
+- playing guitar
+- pennis, basketball, bocce ball
 - percolation and graph theory
 - wii sports
 - somewhat mediocre homemade alfredo on literally everything                      
