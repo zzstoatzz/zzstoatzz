@@ -1,12 +1,13 @@
-## Hello 👋 
-My name is Nate. 
+## hello 👋 
+my name is nate. 
 
-Things I enjoy:
-- Python development 🐍 
-- Playing guitar 🎸 
-- Tennis, basketball, bocce ball 🎾 🏀 
-- Statistical Mechanics & Graph Theory 🔵 🔵 🔵 
-- Wii Golf 🏌️‍                        
+things I enjoy:
+- python / golang development
+- playing guitar 🎸 
+- pennis, basketball, bocce ball 🎾 🏀 
+- percolation and graph theory
+- wii sports
+- somewhat mediocre homemade alfredo on literally everything                      
 
 ### Reach out / Keep up
 - **nate.nowack@slateco.io**
@@ -24,7 +25,7 @@ Things I enjoy:
 #### University of Michigan - Ann Arbor :  *College of Engineering*
 
 
--  August 2020 alumnus, cum laude 
+-  August 2020 alumnus
 
 - **Major:** Chemical Engineering
 
@@ -34,5 +35,3 @@ Currently, I work as a data engineering consultant for [SLATE](https://www.slate
 - Orchestrated data-pipeline creation and management using Prefect
 - High-volume data transformation using Pandas, vectorization, Ray/Dask etc
 - Animations and data visualization
-- golang 
-
