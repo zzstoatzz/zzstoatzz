@@ -4,7 +4,7 @@ my name is nate.
 things I enjoy:
 - python / golang development
 - playing guitar
-- pennis, basketball, bocce ball
+- tennis, basketball, bocce ball
 - percolation and graph theory
 - wii sports
 - somewhat mediocre homemade alfredo on literally everything                      
