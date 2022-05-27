@@ -11,7 +11,7 @@ things I enjoy:
 ### say hello @
 - **nate@prefect.io**
 
-- twitter: @Nathan_Nowack
+- twitter: [@Nathan_Nowack](https://twitter.com/Nathan_Nowack)
 
 - [**LinkedIn**](https://www.linkedin.com/in/nathan-nowack-a6b59b143/)
 
@@ -24,7 +24,7 @@ things I enjoy:
 - **Major:** Chemical Engineering
 - **Minor**: Physics
 
-## SLATE (aquired by Prefect Oct 2020) - data engineer
+#### SLATE (aquired by Prefect Oct 2020) - data engineer
 - data engineering consulting
 - standing up eks on terraform for customer use in orchestrating their data practice 
 - proofing out Prefect flows to orchestrate tools (airbyte, snowflake, dbt, monte carlo) on that infra
