@@ -19,15 +19,18 @@ things I enjoy:
 
 ### Introduction and Background
 
+#### **Currently**: Prefect - Software Engineer
+- building interfaces between Prefect & the ecosystem of data tooling via [blocks](https://docs.prefect.io/concepts/blocks/) and [collections](https://docs.prefect.io/collections/catalog/)
+
 #### University of Michigan - Ann Arbor :  *College of Engineering*
 -  August 2020 alumnus
 - **Major:** Chemical Engineering
 - **Minor**: Physics
 
-#### SLATE (aquired by Prefect Oct 2020) - data engineer
+#### SLATE (aquired by Prefect Oct 2021) - data engineer
 - data engineering consulting
-- standing up eks on terraform for customer use in orchestrating their data practice 
-- proofing out Prefect flows to orchestrate tools (airbyte, snowflake, dbt, monte carlo) on that infra
+- standing up Kubernetes via terraform for customer use in orchestrating their data practice 
+- developing Prefect flows that chain the function of data tools (airbyte, snowflake, dbt, monte carlo) 
 
 #### Prefect - Solutions Engineer
 - supporting customer adoption by proofing customer use cases (e.g. MLOps, ELT)
