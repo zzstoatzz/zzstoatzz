@@ -21,6 +21,7 @@ things I enjoy:
 
 #### Prefect - Software Engineer (present)
 - building interfaces between Prefect & the ecosystem of data tooling via [blocks](https://docs.prefect.io/concepts/blocks/) and [collections](https://docs.prefect.io/collections/catalog/)
+- creating dev ops tooling to enable lean data engineering like our [prefect-infra-templates](https://github.com/PrefectHQ/prefect-infra-templates) and [recipes](https://github.com/PrefectHQ/prefect-recipes).
 
 #### Prefect - Solutions Engineer
 - supporting customer adoption by proofing customer use cases (e.g. MLOps, ELT)
