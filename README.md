@@ -12,11 +12,11 @@ things I enjoy:
 - mario kart and proofing workflow orchestation patterns               
 
 ### say hello @
-- **nate@prefect.io**
-
 - twitter: [@Nathan_Nowack](https://twitter.com/Nathan_Nowack)
 
 - [**LinkedIn**](https://www.linkedin.com/in/nathan-nowack-a6b59b143/)
+
+- **nate@prefect.io**
 
 ---
 
