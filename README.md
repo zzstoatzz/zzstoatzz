@@ -1,9 +1,6 @@
 ## hello 👋 
 my name is nate
 
-![nates's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzstoatzz&show_icons=true&theme=transparent&count_private=true)
-
-
 things I enjoy:
 - random python stuff
 - playing guitar
