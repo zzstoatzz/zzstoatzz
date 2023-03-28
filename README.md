@@ -9,9 +9,9 @@ things I enjoy:
 - mario kart and proofing workflow orchestation patterns               
 
 ### say hello
-- [@Nathan_Nowack](https://twitter.com/Nathan_Nowack)
+- [twitter](https://twitter.com/Nathan_Nowack)
 
-- [**LinkedIn**](https://www.linkedin.com/in/nathan-nowack-a6b59b143/)
+- [LinkedIn](https://www.linkedin.com/in/nathan-nowack-a6b59b143/)
 
 - [Prefect community slack](https://www.prefect.io/slack/)
 ---
