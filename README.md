@@ -19,9 +19,9 @@ things I enjoy:
 ### Introduction and Background
 
 #### Prefect - Software Engineer (present)
-- building python/dev-ops tools enabling LLM-powered applications
 - designing interfaces between Prefect & the ecosystem of data tooling via [blocks](https://docs.prefect.io/concepts/blocks/) and [collections](https://docs.prefect.io/collections/catalog/)
-- creating dev ops tooling to enable lean data engineering like our [recipes](https://github.com/PrefectHQ/prefect-recipes) and [collection registry](https://github.com/PrefectHQ/prefect-collection-registry)
+- creating dev ops tooling to enable LLM-powered applications and lean data engineering.
+- supporting prefect ecosystem via systems like [collection registry](https://github.com/PrefectHQ/prefect-collection-registry)
 
 #### Prefect - Solutions Engineer
 - supporting customer adoption by proofing customer use cases (e.g. MLOps, ELT)
