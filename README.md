@@ -19,8 +19,9 @@ things I enjoy:
 ### Introduction and Background
 
 #### Prefect - Software Engineer (present)
+- building a framework for AI-powered software @ https://github.com/PrefectHQ/marvin
 - designing interfaces between Prefect & the ecosystem of data tooling via [blocks](https://docs.prefect.io/concepts/blocks/), [collections](https://docs.prefect.io/collections/catalog/), and systems like [collection registry](https://github.com/PrefectHQ/prefect-collection-registry)
-- creating dev ops tooling to enable LLM-powered applications and lean data engineering
+- creating dev ops tooling to enable lean data engineering
 
 
 #### Prefect - Solutions Engineer
