@@ -1,7 +1,7 @@
 ## hello 👋 
 my name is nate
 
-i'm a dissented chemical engineer, now full-time python dev
+i'm a dissented chemical engineer, now full-time software dev
 
 interested in:
 - knowledge graphs (especially as it relates to document retrieval)
