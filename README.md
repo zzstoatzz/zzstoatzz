@@ -5,7 +5,7 @@
 - 
 - proofing design patterns for Prefect and Marvin communities
   
-  Follow me on [Twitter](https://twitter.com/your_handle) for more updates.
+  on [twitter](https://twitter.com/Nathan_Nowack) sometimes
 
 ---
 
