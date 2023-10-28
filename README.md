@@ -2,8 +2,8 @@
 
 ## i am likely to be focusing my attention on:
 - LLM dev tools @ [marvin](https://github.com/PrefectHQ/marvin)
-- 
 - proofing design patterns for Prefect and Marvin communities
+- keyboard shortcuts
   
   on [twitter](https://twitter.com/Nathan_Nowack) sometimes
 
