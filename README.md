@@ -1,30 +1,30 @@
-## hello 👋 
-my name is nate
+# hello, I'm nate! 👋
 
-i'm a dissented chemical engineer, now full-time software dev
-
-interested in:
-- self-assembly of information
-- interface design
-- distributed software, containerization and dev-ops
-
-[twitter](https://twitter.com/Nathan_Nowack)
+## i am likely to be focusing my attention on:
+- LLM dev tools @ [marvin](https://github.com/PrefectHQ/marvin)
+- 
+- proofing design patterns for Prefect and Marvin communities
+  
+  Follow me on [Twitter](https://twitter.com/your_handle) for more updates.
 
 ---
 
-### Background
+## Professional Experience 👨‍💻
 
-#### Prefect - Software Engineer (present)
-- building a framework for AI-powered software @ https://github.com/PrefectHQ/marvin
-- designing interfaces between Prefect & the ecosystem of data tooling via [blocks](https://docs.prefect.io/concepts/blocks/), [collections](https://docs.prefect.io/collections/catalog/), and systems like [collection registry](https://github.com/PrefectHQ/prefect-collection-registry)
-- creating dev ops tooling to enable lean data engineering
+### [Prefect - Software Engineer (Present)](https://github.com/PrefectHQ/marvin)
+- Building marvin, integrating it with prefect to create [simple and resilient systems](https://github.com/PrefectHQ/marvin-recipes/blob/main/examples/slackbot/Dockerfile)
+- Designing [interfaces between Prefect & data tooling ecosystems](https://github.com/PrefectHQ/prefect-collection-registry)
+- Creating [DevOps tools](https://github.com/zzstoatzz/prefect-monorepo/blob/main/.github/workflows/env-separated-deploy.yml) for lean data engineering
 
-#### SLATE (aquired by Prefect Oct 2021) - data engineer
-- data engineering consulting
-- provisioning Kubernetes via terraform for customer use in orchestrating their data practice
-- developing Prefect flows that chain the function of data tools (e.g. airbyte, snowflake, dbt, monte carlo) 
+### SLATE (Acquired by Prefect, Oct 2021) - Data Engineer
+- Data engineering consulting
+- Provisioned distributed containers (k8s, ecs, etc) on all AWS and GCP to support companies' data practices
+- Developed Prefect flows to connect OSS data tools and contributed to those tools when needed
 
-#### University of Michigan - Ann Arbor :  *College of Engineering*
--  August 2020 alumnus
-- **Major:** Chemical Engineering
-- **Minor**: Physics
+---
+
+## Educational Background 🎓
+- **University of Michigan - Ann Arbor**
+  - **Major**: Chemical Engineering
+  - **Minor**: Physics
+  - **Alumnus**: August 2020
