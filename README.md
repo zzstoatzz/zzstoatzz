@@ -9,7 +9,7 @@
 
 ---
 
-## Professional Experience 👨‍💻
+## background
 
 ### [Prefect - Software Engineer (Present)](https://github.com/PrefectHQ/marvin)
 - Building marvin, integrating it with prefect to create [simple and resilient systems](https://github.com/PrefectHQ/marvin-recipes/blob/main/examples/slackbot/Dockerfile)
@@ -23,7 +23,7 @@
 
 ---
 
-## Educational Background 🎓
+## education
 - **University of Michigan - Ann Arbor**
   - **Major**: Chemical Engineering
   - **Minor**: Physics
