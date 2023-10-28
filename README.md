@@ -4,7 +4,7 @@ my name is nate
 i'm a dissented chemical engineer, now full-time software dev
 
 interested in:
-- knowledge graphs (especially as it relates to document retrieval)
+- self-assembly of information
 - interface design
 - distributed software, containerization and dev-ops
 
