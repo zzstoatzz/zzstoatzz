@@ -11,7 +11,7 @@
 ### background
 
 #### [Prefect - Software Engineer (Present)](https://github.com/PrefectHQ/marvin)
-- Building marvin, integrating it with prefect to create [simple and resilient systems](https://github.com/PrefectHQ/marvin-recipes/blob/main/examples/slackbot/Dockerfile)
+- Building marvin, integrating it with prefect to create [simple and resilient systems](https://github.com/PrefectHQ/marvin/blob/main/cookbook/slackbot/Dockerfile.slackbot)
 - Designing [interfaces between Prefect & data tooling ecosystems](https://github.com/PrefectHQ/prefect-collection-registry)
 - Creating [DevOps tools](https://github.com/zzstoatzz/prefect-monorepo/blob/main/.github/workflows/env-separated-deploy.yml) for lean data engineering
 
