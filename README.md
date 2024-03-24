@@ -6,6 +6,8 @@
 - keyboard shortcuts
 - [twitter](https://twitter.com/Nathan_Nowack) sometimes
 
+<details>
+  <summary>more</summary>
 ---
 
 ### background
@@ -27,3 +29,4 @@
   - **Major**: Chemical Engineering
   - **Minor**: Physics
   - **Alumnus**: August 2020
+</details>
