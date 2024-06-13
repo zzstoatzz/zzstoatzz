@@ -1,8 +1,7 @@
 ## hello, I'm nate 👋
 
 ### i am likely to be focusing my attention on:
-- LLM dev tools @ [marvin](https://github.com/PrefectHQ/marvin)
-- proofing design patterns for Prefect and Marvin communities
+- LLM dev tools like [marvin](https://github.com/PrefectHQ/marvin) or [raggy](https://github.com/zzstoatzz/raggy)
 - keyboard shortcuts
 - [twitter](https://twitter.com/Nathan_Nowack) sometimes
 
