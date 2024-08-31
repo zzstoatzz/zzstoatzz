@@ -5,8 +5,10 @@
 - keyboard shortcuts
 - [twitter](https://twitter.com/Nathan_Nowack) sometimes
 
+https://alternatebuild.dev
+
 <details>
-  <summary>more</summary>
+  <summary>more occupational information</summary>
 
 ### background
 
