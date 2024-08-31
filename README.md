@@ -13,12 +13,12 @@
 #### (Present) Prefect - Senior Software Engineer (OSS Team)
 - expanding and maintaining the open-source Prefect SDK and server components
 - building AI-powered systems (NLIs + RAG etc) to extend teams within the organization
-- working with leadership and marketing to improve our digital footprint and outreach
+- working with leadership and marketing to improve our documentation, digital footprint and outreach
 
 #### [Prefect - Software Engineer](https://github.com/PrefectHQ/marvin)
-- Building marvin, integrating it with prefect to create [simple and resilient systems](https://github.com/PrefectHQ/marvin/blob/main/cookbook/slackbot/Dockerfile.slackbot)
-- Designing [interfaces between Prefect & data tooling ecosystems](https://github.com/PrefectHQ/prefect-collection-registry)
-- Creating [DevOps tools](https://github.com/zzstoatzz/prefect-monorepo/blob/main/.github/workflows/env-separated-deploy.yml) for lean data engineering
+- Building marvin, integrating it with prefect to create [simple and resilient systems](https://github.com/PrefectHQ/marvin/tree/main/cookbook/slackbot)
+- Designing interfaces between Prefect & data tooling ecosystems - collaborating with integration partners (pydantic, chroma)
+- Creating DevOps tooling for lean data engineering
 
 #### SLATE (Acquired by Prefect, Oct 2021) - Data Engineer
 - Data engineering consulting
