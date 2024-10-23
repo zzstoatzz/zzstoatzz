@@ -1,5 +1,7 @@
 ## hello, I'm nate 👋
 
+### https://alternatebuild.dev
+
 ### i am likely to be focusing my attention on:
 - python / LLM dev tools like [prefect](https://github.com/PrefectHQ/prefect), [marvin](https://github.com/PrefectHQ/marvin) or [raggy](https://github.com/zzstoatzz/raggy)
 - keyboard shortcuts
