@@ -3,7 +3,8 @@
 ### https://alternatebuild.dev
 
 ### i am likely to be focusing my attention on:
-- python / LLM dev tools like [prefect](https://github.com/PrefectHQ/prefect), [marvin](https://github.com/PrefectHQ/marvin) or [raggy](https://github.com/zzstoatzz/raggy), presenting ai with data to make better choices
+- python / LLM dev tools like [prefect](https://github.com/PrefectHQ/prefect), [marvin](https://github.com/PrefectHQ/marvin) or [raggy](https://github.com/zzstoatzz/raggy)
+- presenting ai with data to make better choices
 - keyboard shortcuts
 - [twitter](https://twitter.com/Nathan_Nowack) sometimes
 
