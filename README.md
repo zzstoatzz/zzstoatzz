@@ -6,8 +6,7 @@
 - python / LLM dev tools like [prefect](https://github.com/PrefectHQ/prefect), [marvin](https://github.com/PrefectHQ/marvin) or [raggy](https://github.com/zzstoatzz/raggy)
 - presenting ai with data to make better choices using the above
 - keyboard shortcuts
-- [bsky](https://bsky.app/profile/alternatebuild.dev)
-- [twitter](https://twitter.com/Nathan_Nowack) sometimes
+- [bsky](https://bsky.app/profile/alternatebuild.dev) or [twitter](https://twitter.com/Nathan_Nowack) sometimes
 
 
 <details>
