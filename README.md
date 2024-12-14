@@ -1,6 +1,6 @@
 ## hello, I'm nate 👋
 
-### https://alternatebuild.dev
+- oss maintainer @ [prefect](https://github.com/prefecthq/prefect)
 
 ### i am likely to be focusing my attention on:
 - python / LLM dev tools like [prefect](https://github.com/PrefectHQ/prefect), [marvin](https://github.com/PrefectHQ/marvin) or [raggy](https://github.com/zzstoatzz/raggy)
