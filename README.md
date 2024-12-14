@@ -1,4 +1,4 @@
-## hello, I'm nate 👋
+## 👋 hello, I'm nate
 
 i'm a developer of tools and oss maintainer @ [prefect](https://github.com/prefecthq/prefect)
 
