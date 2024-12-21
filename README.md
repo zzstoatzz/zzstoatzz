@@ -3,7 +3,7 @@
 i'm a developer of tools and oss maintainer @ [prefect](https://github.com/prefecthq/prefect)
 
 ### i am likely to be focusing my attention on:
-- python / LLM dev tools like [prefect](https://github.com/PrefectHQ/prefect), [marvin](https://github.com/PrefectHQ/marvin) or [raggy](https://github.com/zzstoatzz/raggy)
+- python / LLM dev tools in the realm of [prefect](https://github.com/PrefectHQ/prefect), [marvin](https://github.com/PrefectHQ/marvin) or [raggy](https://github.com/zzstoatzz/raggy)
 - presenting ai with data to make better choices using the above
 - keyboard shortcuts
 - [bsky](https://bsky.app/profile/alternatebuild.dev) or [twitter](https://twitter.com/Nathan_Nowack) sometimes
