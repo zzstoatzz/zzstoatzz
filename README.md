@@ -7,7 +7,7 @@ i'm a developer of tools and oss maintainer @ [prefect](https://github.com/prefe
 - presenting ai with data to make better choices using the above
 - keyboard shortcuts
 - [bsky](https://bsky.app/profile/alternatebuild.dev) and/or [atproto](https://github.com/MarshalX/atproto)
-- [pyo3](https://pyo3.rs/v0.23.3/) and identifying CPU bound work to do in rust
+- API design
 
 
 <details>
