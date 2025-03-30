@@ -1,8 +1,9 @@
 ## 👋 hello, I'm nate
 
-i'm a developer of tools and oss maintainer @ [prefect](https://github.com/prefecthq/prefect)
+oss maintainer and maker of tools @ [prefect](https://github.com/prefecthq/prefect)
 
 ### i am likely to be focusing my attention on:
+- responding to issues, questions, discussions, review comments, aggressive reddit comments
 - python / LLM dev tools in the realm of [prefect](https://github.com/PrefectHQ/prefect), [marvin](https://github.com/PrefectHQ/marvin) or [mcp](https://modelcontextprotocol.io/introduction)
 - presenting ai with data to make better choices using the above
 - keyboard shortcuts
