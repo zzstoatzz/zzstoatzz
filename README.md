@@ -22,7 +22,7 @@ oss maintainer and maker of tools @ [prefect](https://github.com/prefecthq/prefe
 - working with leadership and marketing to improve our documentation, digital footprint and outreach
 
 #### _Prefect_ - **Software Engineer**
-- Building [marvin](https://github.com/PrefectHQ/marvin), integrating it with prefect to create [simple and resilient systems](https://github.com/PrefectHQ/marvin/tree/main/examples/slackbot)
+- Building [marvin](https://github.com/PrefectHQ/marvin), integrating it with prefect to create [practical and resilient AI systems](https://github.com/PrefectHQ/marvin/tree/main/examples/slackbot)
 - Designing interfaces between Prefect & data tooling ecosystems - collaborating with integration partners (pydantic, chroma)
 - Creating DevOps tooling for lean data engineering
 
