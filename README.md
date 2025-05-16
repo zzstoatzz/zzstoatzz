@@ -4,7 +4,7 @@ oss maintainer and maker of tools @ [prefect](https://github.com/prefecthq/prefe
 
 ### i am likely to be focusing my attention on:
 - responding to issues, questions, discussions, review comments, aggressive reddit comments
-- python / LLM dev tools in the realm of [prefect](https://github.com/PrefectHQ/prefect), [marvin](https://github.com/PrefectHQ/marvin) or [mcp](https://modelcontextprotocol.io/introduction)
+- building and maintaining python / LLM dev tools like [prefect](https://github.com/PrefectHQ/prefect), [`fastmcp`](https://github.com/jlowin/fastmcp), or [`marvin`](https://github.com/prefecthq/marvin)
 - presenting ai with data to make better choices using the above
 - keyboard shortcuts
 - [bsky](https://bsky.app/profile/alternatebuild.dev) and/or [atproto](https://github.com/MarshalX/atproto)
