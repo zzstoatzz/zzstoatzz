@@ -44,6 +44,6 @@ oss maintainer and maker of tools @ [prefect](https://github.com/prefecthq/prefe
 
 <details>
   <summary>github stats</summary>
-  
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=zzstoatzz)](https://github.com/anuraghazra/github-readme-stats)
+<img height="163" src="https://nirzak-streak-stats.vercel.app/?user=zzstoatzz&theme=dark&hide_border=false" /> <img height="163" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzstoatzz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img height="250" src="https://github-contributor-stats.vercel.app/api?username=zzstoatzz&limit=5&theme=dark&combine_all_yearly_contributions=true" />  <img height="250" src="https://i.imgur.com/ASQOcaQ.jpeg" />
 </details>
