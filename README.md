@@ -14,9 +14,7 @@ oss maintainer and maker of tools @ [prefect](https://github.com/prefecthq/prefe
 <details>
   <summary>my background</summary>
 
-### background
-
-#### _Prefect_ (Present) - **Senior Software Engineer **
+#### _Prefect_ (Present) - **Senior Software Engineer**
 - expanding and maintaining the open-source Prefect SDK and server components
 - taste testing next-generation 
 - building AI-powered systems (MCP clients and servers + RAG etc) to extend teams within the organization
