@@ -12,7 +12,7 @@ oss maintainer and maker of tools @ [prefect](https://github.com/prefecthq/prefe
 
 
 <details>
-  <summary>more occupational information</summary>
+  <summary>my background</summary>
 
 ### background
 
