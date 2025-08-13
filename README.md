@@ -3,7 +3,7 @@
 oss maintainer and maker of tools @ [prefect](https://github.com/prefecthq/prefect)
 
 ### i am likely to be focusing on:
-- responding to issues, questions, discussions, review comments, aggressive reddit comments
+- responding to issues, questions, discussions, review comments, aggressive reddit or hn comments
 - building and maintaining python / LLM dev tools like [`prefect`](https://github.com/PrefectHQ/prefect), [`fastmcp`](https://github.com/jlowin/fastmcp), or [`marvin`](https://github.com/prefecthq/marvin)
 - presenting ai with data to make better choices using the above
 - keyboard shortcuts
