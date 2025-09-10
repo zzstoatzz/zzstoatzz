@@ -7,7 +7,7 @@ oss maintainer and maker of tools @ [prefect](https://github.com/prefecthq/prefe
 - building and maintaining python / LLM dev tools that do this: [`prefect`](https://github.com/PrefectHQ/prefect), [`fastmcp`](https://github.com/jlowin/fastmcp), or [`marvin`](https://github.com/prefecthq/marvin)
 - responding to issues, questions, discussions, review comments, aggressive reddit or hn comments
 - keyboard shortcuts
-- [bsky](https://bsky.app/profile/zzstoatzz.io) and/or [atproto](https://github.com/MarshalX/atproto)
+- [bsky](https://bsky.app/profile/zzstoatzz.io) and/or [atproto](https://atproto.com)
 - API design
 
 
