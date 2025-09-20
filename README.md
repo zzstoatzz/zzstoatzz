@@ -4,11 +4,12 @@ oss maintainer and maker of tools @ [prefect](https://github.com/prefecthq/prefe
 
 ### i am likely to be focusing on:
 - presenting ai with data to make better choices
-- building and maintaining python / LLM dev tools that do this: [`prefect`](https://github.com/PrefectHQ/prefect), [`fastmcp`](https://github.com/jlowin/fastmcp), or [`marvin`](https://github.com/prefecthq/marvin)
+- building / maintaining python / LLM dev tools that do this: [`prefect`](https://github.com/PrefectHQ/prefect), [`fastmcp`](https://github.com/jlowin/fastmcp), or [`marvin`](https://github.com/prefecthq/marvin)
 - responding to issues, questions, discussions, review comments, aggressive reddit or hn comments
 - keyboard shortcuts
 - [bsky](https://bsky.app/profile/zzstoatzz.io) and/or [atproto](https://atproto.com)
 - API design
+
 
 
 <details>
@@ -16,7 +17,7 @@ oss maintainer and maker of tools @ [prefect](https://github.com/prefecthq/prefe
 
 #### _Prefect_ (Present) - **Senior Software Engineer**
 - Worked with product leaders to distill sane-default experiences from complex user needs
-- Co-authoring and maintaining [`fastmcp`](https://github.com/jlowin/fastmcp) (the most popular python interface to MCP)
+- Co-authoring and maintaining [`fastmcp`](https://github.com/jlowin/fastmcp) (most popular python interface to MCP)
 - Expanding and aintaining the open-source Prefect SDK and server components
 - Building AI-powered systems (NLIs + RAG etc) to extend teams within the organization
 - Working with leadership and marketing to improve our digital footprint and outreach
