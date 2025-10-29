@@ -7,5 +7,5 @@
 
 ### repos i contributed to
 
-<!-- BEGIN:contributed_repos -->
-<!-- END:contributed_repos -->
+<!-- BEGIN:contributed -->
+<!-- END:contributed -->
