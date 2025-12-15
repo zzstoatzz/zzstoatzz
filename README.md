@@ -16,18 +16,16 @@ oss maintainer and maker of tools @ [prefect](https://github.com/prefecthq/prefe
   <summary>my background</summary>
 
 #### _Prefect_ (Present) - **Senior Software Engineer**
-- Worked with product leaders to distill sane-default experiences from complex user needs
-- Co-authoring and maintaining [`fastmcp`](https://github.com/jlowin/fastmcp) (most popular python interface to MCP)
-- Expanding and aintaining the open-source Prefect SDK and server components
-- Building AI-powered systems (NLIs + RAG etc) to extend teams within the organization
-- Working with leadership and marketing to improve our digital footprint and outreach
-- [Pioneering use of PyO3](https://github.com/zzstoatzz/visit_collection_rs/tree/main) to defer CPU-intensive work to a faster, more efficient runtime
-- Synthesize the bleeding edge of AI tooling to adopt maximally efficient in-house solutions and practices
+- Finding new and compelling ways to make use of our OSS offerings
+- Channeling community feedback into all Prefect interfaces (API, SDK, MCP)
+- Working with leadership to distill sane-default products from complex and varying enterprise user needs
+- Proofing and maintaining [`fastmcp`](https://github.com/jlowin/fastmcp) (most popular python interface to MCP)
+- Building AI-powered systems to automate toil-rich internal tasks
+- [Pioneering use of PyO3](https://github.com/zzstoatzz/pmgfal/tree/main) to do CPU-bound work in rust
 
 #### _Prefect_ - **Software Engineer**
 - Designed and implemented a Celery-replacing asynchronous task queue to Prefect open-source and Prefect Cloud
 - Contributed to upstream and downstream open-source projects like [`pydantic`](https://github.com/pydantic/pydantic) and [`chromadb`](https://github.com/chroma-core/chromadb)
-- Designed, implemented, and maintained [prefecthq/marvin](https://github.com/PrefectHQ/marvin) ([OpenAI ripped off our DX](https://x.com/Nathan_Nowack/status/1820883665817342381))
 - [Brought AI into Prefect Cloud](https://www.prefect.io/blog/introducing-error-summaries)
 - Designed, implemented and managed open-source autonomous systems like our [slackbot](https://github.com/PrefectHQ/marvin/tree/main/examples/slackbot)
 
