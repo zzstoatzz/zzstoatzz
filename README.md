@@ -23,7 +23,7 @@ oss maintainer and maker of tools @ [prefect](https://github.com/prefecthq/prefe
 - Building AI-powered systems to automate toil-rich internal tasks
 - [Pioneering use of PyO3](https://github.com/zzstoatzz/pmgfal/tree/main) to do CPU-bound work in rust
 
-#### _Prefect_ - **Software Engineer**
+#### _Prefect_ (Oct 2021-Jun 2024) - **Software Engineer**
 - Designed and implemented a Celery-replacing asynchronous task queue to Prefect open-source and Prefect Cloud
 - Contributed to upstream and downstream open-source projects like [`pydantic`](https://github.com/pydantic/pydantic) and [`chromadb`](https://github.com/chroma-core/chromadb)
 - [Brought AI into Prefect Cloud](https://www.prefect.io/blog/introducing-error-summaries)
