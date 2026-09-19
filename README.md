@@ -4,9 +4,9 @@ oss maintainer and maker of tools @ [prefect](https://github.com/prefecthq/prefe
 
 ### i am likely to be focusing on:
 - presenting ai with data to make better choices
-- building / maintaining LLM dev tools that do this: [`fastmcp`](https://github.com/jlowin/fastmcp), or [`noti`](https://noti.waow.tech)
-- [atproto](https://at-me.zzstoatzz.io)
-- API design
+- building and maintaining tools that help me do that: [`fastmcp`](https://github.com/jlowin/fastmcp), or [`noti`](https://noti.waow.tech)
+- [atproto](https://waow.tech)
+- UX, design or [music](https://plyr.fm)
 
 
 
