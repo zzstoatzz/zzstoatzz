@@ -4,9 +4,7 @@ oss maintainer and maker of tools @ [prefect](https://github.com/prefecthq/prefe
 
 ### i am likely to be focusing on:
 - presenting ai with data to make better choices
-- building / maintaining python / LLM dev tools that do this: [`prefect`](https://github.com/PrefectHQ/prefect), [`fastmcp`](https://github.com/jlowin/fastmcp), or [`marvin`](https://github.com/prefecthq/marvin)
-- responding to issues, questions, discussions, review comments, aggressive reddit or hn comments
-- keyboard shortcuts
+- building / maintaining LLM dev tools that do this: [`fastmcp`](https://github.com/jlowin/fastmcp), or [`noti`](https://noti.waow.tech)
 - [atproto](https://at-me.zzstoatzz.io)
 - API design
 
@@ -19,9 +17,9 @@ oss maintainer and maker of tools @ [prefect](https://github.com/prefecthq/prefe
 - Finding new and compelling ways to make use of our OSS offerings
 - Channeling community feedback into all Prefect interfaces (API, SDK, MCP)
 - Working with leadership to distill sane-default products from complex and varying enterprise user needs
-- Proofing and maintaining [`fastmcp`](https://github.com/jlowin/fastmcp) (most popular python interface to MCP)
+- Proofing and maintaining [`fastmcp`](https://github.com/jlowin/fastmcp)
 - Building AI-powered systems to automate toil-rich internal tasks
-- [Pioneering use of PyO3](https://github.com/zzstoatzz/pmgfal/tree/main) to do CPU-bound work in rust
+- [Using low-level languages](https://tangled.org/zzstoatzz.io/prefect-server) to minimize waste
 
 #### _Prefect_ - **Software Engineer**
 - Designed and implemented a Celery-replacing asynchronous task queue to Prefect open-source and Prefect Cloud
