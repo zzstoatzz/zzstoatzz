@@ -6,7 +6,7 @@ oss maintainer and maker of tools @ [prefect](https://github.com/prefecthq/prefe
 - [atproto](https://waow.tech)
 - UX, design or [music](https://plyr.fm)
 - presenting ai with data to [make better choices](https://bsky.app/profile/zzstoatzz.io/post/3mg3pusyrs22s)
-- building and maintaining tools that help me do that: [`fastmcp`](https://github.com/jlowin/fastmcp), or [`noti`](https://noti.waow.tech)
+- building and maintaining tools that help me do that: [`fastmcp`](https://github.com/jlowin/fastmcp), or [`pub-search`](https://pub-search.waow.tech)
 
 
 <details>
