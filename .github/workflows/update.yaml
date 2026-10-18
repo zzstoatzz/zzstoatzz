@@ -23,6 +23,14 @@ jobs:
           mv ./profile-3d-contrib/profile-3d.svg ./profile-3d.svg
           rm -rf ./profile-3d-contrib
 
+      - uses: astral-sh/setup-uv@v10.2.0
+      - name: render github + tangled activity card
+        # if tangled is unreachable, keep yesterday's card instead of failing the whole update
+        continue-on-error: true
+        run: uv run scripts/forges.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: download github-contrib-stats
         run: |
           curl -sSL --output /tmp/github-contrib-stats.tar.gz https://github.com/j178/github-contrib-stats/releases/latest/download/github-contrib-stats-x86_64-unknown-linux-gnu.tar.gz && \

@@ -2,6 +2,13 @@
 
 oss maintainer and maker of tools @ [prefect](https://github.com/prefecthq/prefect)
 
+most of my code lives on [tangled.org/zzstoatzz.io](https://tangled.org/zzstoatzz.io). prefect and fastmcp work stays here.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./forges-dark.svg">
+  <img alt="weekly activity this year: contributions on github above the line, commits on tangled below, with totals and languages by commit" src="./forges-light.svg">
+</picture>
+
 ### i am likely to be focusing on:
 - [atproto](https://waow.tech)
 - UX, design or [music](https://plyr.fm)
@@ -43,16 +50,9 @@ oss maintainer and maker of tools @ [prefect](https://github.com/prefecthq/prefe
 
 
 <details>
-  <summary>github stats</summary>
-
-<img height="163" src="https://nirzak-streak-stats.vercel.app/?user=zzstoatzz&theme=dark&hide_border=false" /> <img height="163" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzstoatzz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-<img height="250" src="https://github-contributor-stats.vercel.app/api?username=zzstoatzz&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-
----
+  <summary>github-only stats</summary>
 
 ![](./profile-3d.svg)
-
----
 
 [detailed contribution breakdown](./contribution.md)
 </details>
