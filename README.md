@@ -43,7 +43,7 @@ oss maintainer and maker of tools @ [prefect](https://github.com/prefecthq/prefe
 
 
 <details>
-  <summary>github stats</summary>
+  <summary>stats</summary>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./forges-dark.svg">
