@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" role="img">
-<title>8,343 contributions on github and 13,601 commits on tangled in 2026</title>
+<title>8,496 contributions on github and 13,853 commits on tangled in 2026</title>
 <style>.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace}.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}</style>
 <rect width="880" height="300" rx="6" fill="#0d1117"/>
 <text class="m" x="8" y="20" fill="#39d353" font-size="11" font-weight="600">▲ github.com/zzstoatzz</text>
@@ -78,20 +78,20 @@
 <rect x="459.2" y="153" width="10.9" height="83.1" rx="1.5" fill="#f0a63a" fill-opacity="0.89"/>
 <rect x="472.1" y="125.1" width="10.9" height="26.9" rx="1.5" fill="#39d353" fill-opacity="0.59"/>
 <rect x="472.1" y="153" width="10.9" height="46.7" rx="1.5" fill="#f0a63a" fill-opacity="0.70"/>
-<rect x="485.0" y="131.3" width="10.9" height="20.7" rx="1.5" fill="#39d353" fill-opacity="0.56"/>
+<rect x="485.0" y="129.9" width="10.9" height="22.1" rx="1.5" fill="#39d353" fill-opacity="0.57"/>
 <rect x="485.0" y="153" width="10.9" height="28.3" rx="1.5" fill="#f0a63a" fill-opacity="0.60"/>
-<rect x="497.8" y="125.5" width="10.9" height="26.5" rx="1.5" fill="#39d353" fill-opacity="0.59"/>
+<rect x="497.8" y="124.9" width="10.9" height="27.1" rx="1.5" fill="#39d353" fill-opacity="0.59"/>
 <rect x="497.8" y="153" width="10.9" height="30.2" rx="1.5" fill="#f0a63a" fill-opacity="0.61"/>
 <rect x="510.7" y="130.2" width="10.9" height="21.8" rx="1.5" fill="#39d353" fill-opacity="0.57"/>
 <rect x="510.7" y="153" width="10.9" height="57.5" rx="1.5" fill="#f0a63a" fill-opacity="0.75"/>
 <rect x="523.5" y="135.7" width="10.9" height="16.3" rx="1.5" fill="#39d353" fill-opacity="0.54"/>
 <rect x="523.5" y="153" width="10.9" height="90.2" rx="1.5" fill="#f0a63a" fill-opacity="0.93"/>
-<rect x="536.4" y="130.1" width="10.9" height="21.9" rx="1.5" fill="#39d353" fill-opacity="0.57"/>
+<rect x="536.4" y="129.9" width="10.9" height="22.1" rx="1.5" fill="#39d353" fill-opacity="0.57"/>
 <rect x="536.4" y="153" width="10.9" height="100.7" rx="1.5" fill="#f0a63a" fill-opacity="0.98"/>
 <rect x="549.3" y="120.0" width="10.9" height="32.0" rx="1.5" fill="#39d353" fill-opacity="0.62"/>
 <rect x="549.3" y="153" width="10.9" height="100.8" rx="1.5" fill="#f0a63a" fill-opacity="0.98"/>
-<rect x="562.1" y="149.8" width="10.9" height="2.2" rx="1.5" fill="#39d353" fill-opacity="0.46"/>
-<rect x="562.1" y="153" width="10.9" height="6.7" rx="1.5" fill="#f0a63a" fill-opacity="0.49"/>
+<rect x="562.1" y="133.0" width="10.9" height="19.0" rx="1.5" fill="#39d353" fill-opacity="0.55"/>
+<rect x="562.1" y="153" width="10.9" height="37.7" rx="1.5" fill="#f0a63a" fill-opacity="0.65"/>
 <line x1="8" x2="574" y1="152.5" y2="152.5" stroke="#30363d"/>
 <text class="m" x="10.0" y="36" fill="#8b949e" font-size="9">jan</text>
 <text class="m" x="74.3" y="36" fill="#8b949e" font-size="9">feb</text>
@@ -103,17 +103,17 @@
 <text class="m" x="395.9" y="36" fill="#8b949e" font-size="9">aug</text>
 <text class="m" x="460.2" y="36" fill="#8b949e" font-size="9">sep</text>
 <text class="m" x="511.7" y="36" fill="#8b949e" font-size="9">oct</text>
-<text class="s" x="600" y="44" fill="#39d353" font-size="26" font-weight="600">8,343</text>
+<text class="s" x="600" y="44" fill="#39d353" font-size="26" font-weight="600">8,496</text>
 <text class="m" x="600" y="62" fill="#8b949e" font-size="11">contributions on github</text>
-<text class="s" x="600" y="104" fill="#f0a63a" font-size="26" font-weight="600">13,601</text>
+<text class="s" x="600" y="104" fill="#f0a63a" font-size="26" font-weight="600">13,853</text>
 <text class="m" x="600" y="122" fill="#8b949e" font-size="11">commits on tangled</text>
-<text class="s" x="600" y="164" fill="#e6edf3" font-size="26" font-weight="600">294/298</text>
-<text class="m" x="600" y="182" fill="#8b949e" font-size="11">days active · 56-day streak</text>
+<text class="s" x="600" y="164" fill="#e6edf3" font-size="26" font-weight="600">295/299</text>
+<text class="m" x="600" y="182" fill="#8b949e" font-size="11">days active · 57-day streak</text>
 <text class="m" x="600" y="214" fill="#8b949e" font-size="11">busiest: Oct 9 (425)</text>
-<rect x="600.0" y="234" width="113.5" height="8" fill="#ec915c"/>
-<rect x="713.5" y="234" width="105.9" height="8" fill="#3572A5"/>
-<rect x="819.4" y="234" width="27.2" height="8" fill="#3178c6"/>
-<rect x="846.6" y="234" width="21.4" height="8" fill="#8b949e"/>
+<rect x="600.0" y="234" width="112.4" height="8" fill="#ec915c"/>
+<rect x="712.4" y="234" width="106.0" height="8" fill="#3572A5"/>
+<rect x="818.4" y="234" width="27.2" height="8" fill="#3178c6"/>
+<rect x="845.6" y="234" width="22.4" height="8" fill="#8b949e"/>
 <circle cx="604" cy="261" r="4" fill="#ec915c"/>
 <text class="m" x="612" y="265" fill="#e6edf3" font-size="11">zig 42%</text>
 <circle cx="676.9" cy="261" r="4" fill="#3572A5"/>
